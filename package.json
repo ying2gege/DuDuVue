@@ -1,0 +1,15 @@
+{
+  "name": "duduvue",
+  "version": "1.0.0",
+  "author": "superying",
+  "description": "精简版 Vue3.0，供学习参考",
+  "main": "index.js",
+  "packageManager": "pnpm@7.26.0",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=16.11.0"
+  }
+}
